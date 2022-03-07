@@ -10,3 +10,8 @@
   - [Tic Tac Toe](https://github.com/yankun-song/Tic-Tac-Toe)
 6. Redux
   - [Market Cards]
+7. UI/UX
+
+8. Vanilla Node.js
+
+9. Express
