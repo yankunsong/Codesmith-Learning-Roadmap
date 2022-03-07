@@ -9,9 +9,9 @@
 5. React
   - [Tic Tac Toe](https://github.com/yankun-song/Tic-Tac-Toe)
 6. Redux
-  - [Market Cards]
+  - [Loyalty Cards Frontend](https://github.com/yankun-song/Loyalty-Cards-Frontend)
 7. UI/UX
-
+  - [Star War Cards]
 8. Vanilla Node.js
-
+  - [Basic Client-Server Model](https://github.com/yankun-song/Basic-Client-Server-Model)
 9. Express
