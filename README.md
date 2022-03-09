@@ -1,4 +1,5 @@
 # Codesmith-Learning-Roadmap
+This repo is a record of my learning history and projects done.
 
 1. Data structures and algorithms
 
