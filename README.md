@@ -12,7 +12,10 @@ This repo is a record of my learning history and projects done.
 5. Redux
   - [Loyalty Cards Frontend](https://github.com/yankun-song/Loyalty-Cards-Frontend)
 6. UI/UX
-  - [Star War Cards]
+  - [Star War Cards](https://github.com/yankun-song/Star-Wars-Cards)
 7. Vanilla Node.js
   - [Basic Client-Server Model](https://github.com/yankun-song/Basic-Client-Server-Model)
 8. Express
+
+9. Database(Postgres and MangoDB)
+
